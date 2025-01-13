@@ -1,13 +1,12 @@
-# A Survey on Lifelong Learning of Large Language Model-based Agents
+# Lifelong Learning of Large Language Model based Agents: A Roadmap
 
-Welcome to the repository accompanying our survey paper on **A Survey on Lifelong Learning of Large Language Model-based Agents**. This repository collects awesome paper for lifelong learning of LLM agent. We identify three key modules-Perception, Memory, and Action-that are integral to agent's ability to perform lifelong learning. Please refer to [this survey](https://www.example.com) for detailed introduction.
+Welcome to the repository accompanying our survey paper on **Lifelong Learning of Large Language Model based Agents: A Roadmap**. This repository collects awesome paper for lifelong learning of LLM agent. We identify three key modules-Perception, Memory, and Action-that are integral to agent's ability to perform lifelong learning. Please refer to [this survey](https://www.example.com) for detailed introduction.
 
 ![introduction](./assets/introduction.jpg)
 
 ## 📢 News
 
--  **2025-2-30**: We released a survey paper "[A Survey on Lifelong Learning of Large Language Model-based Agents](https://www.example.com)". Feel free to cite it.
--  
+-  **2025-1-14**: We released a survey paper "[Lifelong Learning of Large Language Model based Agents: A Roadmap](https://www.example.com)". Feel free to cite it.
 
 ## 📒 Table of Contents
 
@@ -129,14 +128,18 @@ Welcome to the repository accompanying our survey paper on **A Survey on Lifelon
 |[Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](https://arxiv.org/pdf/2305.17144)|arXiv|2023-05|
 |[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291)|arXiv|2023-05|
 
-
-
-
 ## 📚 Cite Our Work
 
-## 😍 Star History
+```
+@article{zheng2025lifelong,
+  title={Lifelong Learning of Large Language Model based Agents: A Roadmap},
+  author={Zheng, Junhao and Shi, Chengming and Cai Xidi and Li Qiuke and Ma, Qianli},
+  journal={arXiv preprint arXiv:2501.00000},
+  year={2025}
+}
+```
 
-## Star History
+## 😍 Star History
 
 <a href="https://star-history.com/#qianlima-lab/awesome-lifelong-llm-agent&Date">
  <picture>

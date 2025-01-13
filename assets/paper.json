@@ -1,0 +1,489 @@
+{
+  "Perception Module": {
+    "Single-Modal Perception": [
+      {
+        "paper": "Synapse: Trajectory-asexemplar prompting with memory for computer control",
+        "link": "https://openreview.net/pdf?id=Pc8AU1aF5e",
+        "venue": "ICLR",
+        "date": "2023-06",
+        "label": "zheng2023synapse"
+      },
+      {
+        "label": "yang2024agentoccam"
+      },
+      {
+        "paper": "Webarena: A realistic web environment for building autonomous agents",
+        "link": "https://arxiv.org/pdf/2307.13854",
+        "venue": "ICLR",
+        "date": "2023-07",
+        "label": "zhou2023webarena"
+      },
+      {
+        "paper": "Multimodal web navigation with instruction-finetuned foundation models",
+        "link": "https://arxiv.org/pdf/2305.11854",
+        "venue": "ICLR",
+        "date": "2023-05",
+        "label": "furuta2023multimodal"
+      },
+      {
+        "paper": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+        "link": "https://arxiv.org/pdf/2401.01614.pdf",
+        "venue": "ICLR",
+        "date": "2024-01",
+        "label": "zheng2024gpt"
+      }
+    ],
+    "Multi-Modal Perception": [
+      {
+        "paper": "Perceiver: General perception with iterative attention",
+        "link": "http://proceedings.mlr.press/v139/jaegle21a/jaegle21a.pdf",
+        "venue": "ICML",
+        "date": "2021-07",
+        "label": "jaegle2021perceiver"
+      },
+      {
+        "paper": "Vatt: Transformers for multimodal self-supervised learning from raw video, audio and text",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2021/file/cb3213ada48302953cb0f166464ab356-Paper.pdf",
+        "venue": "NeurIPS",
+        "date": "2021-04",
+        "label": "akbari2021vatt"
+      },
+      {
+        "paper": "Omnivore: A single model for many visual modalities",
+        "link": "https://arxiv.org/PDF/2201.08377",
+        "venue": "CVPR",
+        "date": "2022-01",
+        "label": "girdhar2022omnivore"
+      },
+      {
+        "paper": "Modaverse: Efficiently transforming modalities with llms",
+        "link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_ModaVerse_Efficiently_Transforming_Modalities_with_LLMs_CVPR_2024_paper.pdf",
+        "venue": "CVPR",
+        "date": "2024-01",
+        "label": "wang2024modaverse"
+      },
+      {
+        "paper": "Llms can evolve continually on modality for x-modal reasoning",
+        "link": "https://arxiv.org/pdf/2410.20178",
+        "venue": "NeurIPS",
+        "date": "2024-10",
+        "label": "yu2024llms"
+      }
+    ]
+  },
+  "Memory Module": {
+    "Working Memory": [
+      {
+        "paper": "Adapting Language Models to Compress Contexts",
+        "link": "https://arxiv.org/pdf/2305.14788",
+        "venue": "ACL",
+        "date": "2023-05",
+        "label": "chevalier2023adapting"
+      },
+      {
+        "paper": "Cogltx: Applying bert to long texts",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2020/file/96671501524948bc3937b4b30d0e57b9-Paper.pdf",
+        "venue": "NeurIPS",
+        "date": "2020-12",
+        "label": "ding2020cogltx"
+      },
+      {
+        "paper": "Character-llm: A trainable agent for role-playing",
+        "link": "https://arxiv.org/pdf/2310.10158",
+        "venue": "EMNLP",
+        "date": "2023-10",
+        "label": "shao2023character"
+      },
+      {
+        "paper": "Critic: Large language models can self-correct with tool-interactive critiquing}",
+        "link": "https://arxiv.org/pdf/2305.11738",
+        "venue": "NeurIPS Workshop",
+        "date": "2023-05",
+        "label": "gou2023critic"
+      },
+      {
+        "paper": "Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers",
+        "link": "https://arxiv.org/pdf/2309.08532",
+        "venue": "ICLR",
+        "date": "2023-09",
+        "label": "guo2023connecting"
+      }
+    ],
+    "Episodic Memory": [
+      {
+        "paper": "iCaRL: Incremental Classifier and Representation Learning",
+        "link": "https://openaccess.thecvf.com/content_cvpr_2017/papers/Rebuffi_iCaRL_Incremental_Classifier_CVPR_2017_paper.pdf",
+        "venue": "CVPR",
+        "date": "2017-04",
+        "label": "rebuffi2017icarl"
+      },
+      {
+        "paper": "Bring Evanescent Representations to Life in Lifelong Class Incremental Learning",
+        "link": "https://openaccess.thecvf.com/content/CVPR2022/papers/Toldo_Bring_Evanescent_Representations_to_Life_in_Lifelong_Class_Incremental_Learning_CVPR_2022_paper.pdf",
+        "venue": "CVPR",
+        "date": "2022-06",
+        "label": "toldo2022bring"
+      },
+      {
+        "paper": "MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation",
+        "link": "https://arxiv.org/pdf/2308.08239",
+        "venue": "arXiv",
+        "date": "2023-08",
+        "label": "lu2023memochat"
+      },
+      {
+        "paper": "DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory",
+        "link": "https://arxiv.org/pdf/2410.08143",
+        "venue": "arXiv",
+        "date": "2024-10",
+        "label": "wang2024delta"
+      },
+      {
+        "paper": "RET-LLM: Towards a General Read-Write Memory for Large Language Models",
+        "link": "https://arxiv.org/abs/2305.14322",
+        "venue": "ICLR",
+        "date": "2023-05",
+        "label": "modarressi2023ret"
+      }
+    ],
+    "Semantic Memory": [
+      {
+        "paper": "Fast and Continual Knowledge Graph Embedding via Incremental LoRA",
+        "link": "https://arxiv.org/pdf/2407.05705?",
+        "venue": "IJCAL",
+        "date": "2024-07",
+        "label": "liu2024fast"
+      },
+      {
+        "paper": "CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks",
+        "link": "https://arxiv.org/pdf/2402.16767",
+        "venue": "arXiv",
+        "date": "2024-02",
+        "label": "guo2024corpusbrain++"
+      },
+      {
+        "paper": "Continual Multimodal Knowledge Graph Construction",
+        "link": "https://arxiv.org/pdf/2305.08698",
+        "venue": "IJCAI",
+        "date": "2023-05",
+        "label": "chen2023continual"
+      },
+      {
+        "paper": "PromptDSI: Prompt-based Rehearsal-free Instance-wise Incremental Learning for Document Retrieval",
+        "link": "https://arxiv.org/pdf/2406.12593",
+        "venue": "arXiv",
+        "date": "2024-06",
+        "label": "huynh2024promptdsi"
+      },
+      {
+        "paper": "Lifelong embedding learning and transfer for growing knowledge graphs",
+        "link": "https://ojs.aaai.org/index.php/AAAI/article/view/25539/25311",
+        "venue": "AAAI",
+        "date": "2022-11",
+        "label": "cui2023lifelong"
+      }
+    ],
+    "Parametric Memory": [
+      {
+        "paper": "WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models",
+        "link": "https://arxiv.org/pdf/2405.14768",
+        "venue": "NeurIPS",
+        "date": "2024-05",
+        "label": "wang2024wise"
+      },
+      {
+        "paper": "Aging with GRACE: Lifelong Model Editing with Key-Value Adaptors",
+        "link": "https://openreview.net/pdf?id=ngCT1EelZk",
+        "venue": "ICLR",
+        "date": "2022-11",
+        "label": "hartvigsenaging"
+      },
+      {
+        "paper": "Plug-and-Play Adaptation for Continuously-updated QA",
+        "link": "https://arxiv.org/pdf/2204.12785",
+        "venue": "ACL",
+        "date": "2022-04",
+        "label": "lee2022plug"
+      },
+      {
+        "paper": "ELDER: Enhancing Lifelong Model Editing with Mixture-of-LoRA",
+        "link": "https://arxiv.org/pdf/2408.11869",
+        "venue": "arXiv",
+        "date": "2024-08",
+        "label": "li2024enhance"
+      },
+      {
+        "paper": "WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing",
+        "link": "https://arxiv.org/pdf/2402.10987",
+        "venue": "ACL",
+        "date": "2024-02",
+        "label": "hu2024wilke"
+      }
+    ]
+  },
+  "Action Module": {
+    "Grounding Actions": {
+      "Tool Environment": [
+        {
+          "paper": "GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution",
+          "link": "https://arxiv.org/pdf/2307.08775",
+          "venue": "EACL",
+          "date": "2023-07",
+          "label": "lu2023gear"
+        },
+        {
+          "paper": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+          "link": "https://arxiv.org/pdf/2307.16789",
+          "venue": "ICLR",
+          "date": "2023-07",
+          "label": "qin2023toolllm"
+        },
+        {
+          "paper": "EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction",
+          "link": "https://arxiv.org/pdf/2401.06201",
+          "venue": "ICLR Workshop",
+          "date": "2024-01",
+          "label": "yuan2024easytool"
+        },
+        {
+          "paper": "ART: Automatic multi-step reasoning and tool-use for large language models",
+          "link": "https://arxiv.org/pdf/2303.09014",
+          "venue": "arXiv",
+          "date": "2023-03",
+          "label": "paranjape2023art"
+        },
+        {
+          "paper": "On the Tool Manipulation Capability of Open-source Large Language Models",
+          "link": "https://arxiv.org/pdf/2305.16504",
+          "venue": "arXiv",
+          "date": "2023-05",
+          "label": "xu2023tool"
+        },
+        {
+          "paper": "LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error",
+          "link": "https://aclanthology.org/2024.acl-long.570.pdf",
+          "venue": "ACL",
+          "date": "2024-03",
+          "label": "wang2024llms"
+        },
+        {
+          "paper": "Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum",
+          "link": "https://ojs.aaai.org/index.php/AAAI/article/view/29759",
+          "venue": "AAAI",
+          "date": "2023-08",
+          "label": "gao2024confucius"
+        },
+        {
+          "paper": "Large Language Models as Tool Makers",
+          "link": "https://arxiv.org/pdf/2305.17126",
+          "venue": "ICLR",
+          "date": "2023-05",
+          "label": "cai2023large"
+        },
+        {
+          "paper": "ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings",
+          "link": "https://openreview.net/pdf?id=BHXsb69bSx",
+          "venue": "NeurIPS",
+          "date": "2023-05",
+          "label": "hao2023toolkengpt"
+        },
+        {
+          "paper": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "link": "https://openreview.net/pdf?id=Yacmpz84TH",
+          "venue": "NeurIPS",
+          "date": "2023-05",
+          "label": "schick2023toolformer"
+        }
+      ],
+      "Web Environment": [
+        {
+          "paper": "SteP: Stacked LLM Policies for Web Actions",
+          "link": "https://openreview.net/pdf?id=5fg0VtRxgi",
+          "venue": "COLM",
+          "date": "2024-07",
+          "label": "sodhi2024step"
+        },
+        {
+          "paper": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agent",
+          "link": "https://arxiv.org/pdf/2410.13825?",
+          "venue": "arXiv",
+          "date": "2024-10",
+          "label": "yang2024agentoccam"
+        },
+        {
+          "paper": "WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration",
+          "link": "https://arxiv.org/pdf/2408.15978",
+          "venue": "arXiv",
+          "date": "2024-08",
+          "label": "zhang2024webpilot"
+        },
+        {
+          "paper": "Large Language Models Are Semi-Parametric Reinforcement Learning Agent",
+          "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/f6b22ac37beb5da61efd4882082c9ecd-Paper-Conference.pdf",
+          "venue": "NeurIPS",
+          "date": "2023-06",
+          "label": "zhang2024large"
+        },
+        {
+          "paper": "LASER: LLM Agent with State-Space Exploration for Web Navigation",
+          "link": "https://arxiv.org/pdf/2309.08172",
+          "venue": "NeurIPS Workshop",
+          "date": "2023-09",
+          "label": "ma2023laser"
+        }
+      ],
+      "Game Environment": [
+        {
+          "paper": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",
+          "link": "https://arxiv.org/pdf/2302.01560",
+          "venue": "NeurIPS",
+          "date": "2023-02",
+          "label": "wang2023describe"
+        },
+        {
+          "paper": "JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models",
+          "link": "https://arxiv.org/pdf/2311.05997",
+          "venue": "TPAMI",
+          "date": "2023-11",
+          "label": "wang2024jarvis"
+        },
+        {
+          "paper": "VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft",
+          "link": "https://arxiv.org/pdf/2406.05720",
+          "venue": "ACL",
+          "date": "2024-06",
+          "label": "dong2024villageragent"
+        },
+        {
+          "paper": "See and Think: Embodied Agent in Virtual Environment",
+          "link": "https://arxiv.org/pdf/2311.15209",
+          "venue": "ECCV",
+          "date": "2023-11",
+          "label": "zhao2025see"
+        },
+        {
+          "paper": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+          "link": "https://arxiv.org/pdf/2305.16291",
+          "venue": "arXiv",
+          "date": "2023-05",
+          "label": "wang2023voyager"
+        }
+      ]
+    },
+    "Retrieval Actions": {
+      "Retrieval from Semantic memory": [
+        {
+          "label": "zhao2025see"
+        },
+        {
+          "paper": "Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory",
+          "link": "https://arxiv.org/pdf/2305.17144",
+          "venue": "arXiv",
+          "date": "2023-05",
+          "label": "zhu2023ghost"
+        },
+        {
+          "paper": "Planning with Large Language Models via Corrective Re-prompting",
+          "link": "https://openreview.net/pdf?id=cMDMRBe1TKs",
+          "venue": "NeurIPS Workshop",
+          "date": "2022-10",
+          "label": "raman2022planning"
+        },
+        {
+          "paper": "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents",
+          "link": "https://proceedings.mlr.press/v162/huang22a/huang22a.pdf",
+          "venue": "ICML",
+          "date": "2022-01",
+          "label": "huang2022language"
+        }
+      ],
+      "Retrieval from Episodic memory": [
+        {
+          "label": "paranjape2023art"
+        },
+        {
+          "label": "xu2023tool"
+        },
+        {
+          "label": "cai2023large"
+        },
+        {
+          "paper": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs",
+          "link": "https://arxiv.org/pdf/2406.14596",
+          "venue": "arXiv",
+          "date": "2024-06",
+          "label": "sarch2024vlm"
+        },
+        {
+          "label": "wang2023voyager"
+        }
+      ]
+    },
+    "Reasoning Actions": {
+      "Intra-Episodic Memory": [
+        {
+          "paper": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+          "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf",
+          "venue": "NeurIPS",
+          "date": "2023-05",
+          "label": "yao2024tree"
+        },
+        {
+          "paper": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "link": "https://arxiv.org/pdf/2210.03629",
+          "venue": "ICLR",
+          "date": "2022-10",
+          "label": "yao2022react"
+        },
+        {
+          "paper": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+          "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf",
+          "venue": "NeurIPS",
+          "date": "2023-03",
+          "label": "shinn2024reflexion"
+        },
+        {
+          "paper": "Reasoning with Language Model is Planning with World Model",
+          "link": "https://arxiv.org/pdf/2305.14992",
+          "venue": "EMNLP",
+          "date": "2023-05",
+          "label": "hao2023reasoning"
+        },
+        {
+          "paper": "Large Language Models as Commonsense Knowledge for Large-Scale Task Planning",
+          "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/65a39213d7d0e1eb5d192aa77e77eeb7-Paper-Conference.pdf",
+          "venue": "NeurIPS",
+          "date": "2023-05",
+          "label": "zhao2024large"
+        },
+        {
+          "paper": "SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks",
+          "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/4b0eea69deea512c9e2c469187643dc2-Paper-Conference.pdf",
+          "venue": "NeurIPS2023",
+          "date": "2023-05",
+          "label": "lin2024swiftsage"
+        }
+      ],
+      "Inter-Episodic Memory": [
+        {
+          "label": "wang2024llms"
+        },
+        {
+          "label": "zhang2024large"
+        },
+        {
+          "label": "sarch2024vlm"
+        },
+        {
+          "label": "wang2023voyager"
+        },
+        {
+          "label": "zhao2025see"
+        },
+        {
+          "label": "zhu2023ghost"
+        }
+      ]
+    }
+  }
+}

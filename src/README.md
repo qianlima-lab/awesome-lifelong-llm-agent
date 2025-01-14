@@ -4,4 +4,6 @@ Use following command to start. Please be aware that [black](https://black.readt
 git clone ggit@github.com:qianlima-lab/awesome-lifelong-llm-agent.git
 cd awesome-lifelong-llm-agent
 pip install pre-commit==4.0.1
+pre-commit install  # install pre-commit hooks
+pre-commit run --all-files  # check its effect
 ```

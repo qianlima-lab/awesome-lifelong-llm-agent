@@ -2,13 +2,16 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-lifelong_LLM_Agents-b31b1b.svg)](https://arxiv.org/pdf/2501.07278)
 
-Welcome to the repository accompanying our survey paper on **Lifelong Learning of Large Language Model based Agents: A Roadmap**. This repository collects awesome paper for lifelong learning of LLM agent. We identify three key modules-Perception, Memory, and Action-that are integral to agent's ability to perform lifelong learning. Please refer to [this survey](https://arxiv.org/pdf/2501.07278) for detailed introduction.
+Welcome to the repository accompanying our survey paper on **Lifelong Learning of Large Language Model based Agents: A Roadmap**. This repository collects awesome paper for lifelong learning (also known as, continual learning and incremental learning) of LLM agent. We identify three key modules-Perception, Memory, and Action-that are integral to agent's ability to perform lifelong learning. Please refer to [this survey](https://arxiv.org/pdf/2501.07278) for detailed introduction.
+
+
+![illustrution](https://github.com/user-attachments/assets/5398a8c6-b3a8-4508-a8f6-55eb6949348d)
 
 ![introduction](./assets/introduction.jpg)
 
 ## 📢 News
 
--  **2025-1-14**: We released a survey paper "[Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)". Feel free to cite it.
+-  **2025-1-14**: We released a survey paper "[Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)". Feel free to cite or open pull requests.
 
 ## 📒 Table of Contents
 
@@ -133,14 +136,11 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 ## 📚 Cite Our Work
 
 ```
-@misc{zheng2025lifelonglearninglargelanguage,
+@article{zheng2025lifelong,
       title={Lifelong Learning of Large Language Model based Agents: A Roadmap}, 
-      author={Junhao Zheng and Chengming Shi and Xidi Cai and Qiuke Li and Duzhen Zhang and Chenxing Li and Dong Yu and Qianli Ma},
+      author={Zheng, Junhao and Shi, Chengming and Cai, Xidi and Li, Qiuke and Zhang, Duzhen and Li, Chenxing and Yu, Dong and Ma, Qianli},
+      journal={arXiv preprint arXiv:2501.07278},
       year={2025},
-      eprint={2501.07278},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2501.07278}, 
 }
 ```
 

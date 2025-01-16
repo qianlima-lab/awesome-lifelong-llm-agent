@@ -7,7 +7,7 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 
 ![illustrution](./assets/illustrution.png)
 
-![introduction](./assets/introduction.jpg)
+![introduction](./assets/introduction.png)
 
 ## 📢 News
 

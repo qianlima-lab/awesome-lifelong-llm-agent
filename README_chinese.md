@@ -6,7 +6,7 @@
 
 ![illustrution](./assets/illustrution_chinese.png)
 
-![introduction](./assets/introduction_chinese.jpg)
+![introduction](./assets/introduction_chinese.png)
 
 ## 📢 最新动态
 

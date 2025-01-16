@@ -5,7 +5,7 @@ from typing import Optional
 
 class PaperInformation:
     def __init__(
-            self, paper: str, link: str, venue: str, date: str, label: Optional[str] = None
+        self, paper: str, link: str, venue: str, date: str, label: Optional[str] = None
     ):
         self.paper = paper
         self.link = link
@@ -52,8 +52,8 @@ class Utility:
                             label=paper_label,
                         )
                         assert (
-                                paper_label is not None
-                                or paper_information not in paper_information_list
+                            paper_label is not None
+                            or paper_information not in paper_information_list
                         )
                         paper_information_list.append(paper_information)
             else:
@@ -62,7 +62,7 @@ class Utility:
 
     @staticmethod
     def fill_paper_dict(
-            raw_paper_dict: dict, paper_information_list: list[PaperInformation]
+        raw_paper_dict: dict, paper_information_list: list[PaperInformation]
     ) -> dict:
         processed_paper_dict = {}
         for key, value in raw_paper_dict.items():
@@ -74,8 +74,8 @@ class Utility:
                 processed_paper_dict[key] = []
                 for raw_paper_information in value:
                     if (
-                            len(raw_paper_information.keys()) == 1
-                            or "label" in raw_paper_information.keys()
+                        len(raw_paper_information.keys()) == 1
+                        or "label" in raw_paper_information.keys()
                     ):
                         paper_label = raw_paper_information["label"]
                         for paper_information in paper_information_list:
@@ -103,7 +103,7 @@ class Utility:
 
     @staticmethod
     def generate_readme_table_with_title(
-            title: str, title_level: int, paper_information_list: list[PaperInformation]
+        title: str, title_level: int, paper_information_list: list[PaperInformation]
     ) -> str:
         result_str = Utility.generate_title_with_level(title, title_level)
         result_str += "|Title|Venue|Date|\n"
@@ -119,7 +119,7 @@ class Utility:
 
     @staticmethod
     def generate_all_table(
-            paper_dict: dict, topmost_table_level: int, current_table_str: str
+        paper_dict: dict, topmost_table_level: int, current_table_str: str
     ) -> str:
         for key, value in paper_dict.items():
             if isinstance(value, dict):

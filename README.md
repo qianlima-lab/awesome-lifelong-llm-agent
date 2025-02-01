@@ -4,16 +4,16 @@
 
 Welcome to the repository accompanying our survey paper on **Lifelong Learning of Large Language Model based Agents: A Roadmap**. This repository collects awesome paper for lifelong learning (also known as, continual learning and incremental learning) of LLM agent. We identify three key modules-Perception, Memory, and Action-that are integral to agent's ability to perform lifelong learning. Please refer to [this survey](https://arxiv.org/pdf/2501.07278) for detailed introduction. Additionally, for other papers, surveys, and resources on lifelong learning (continual learning, incremental learning) of LLMs, you can refer to [this repository](https://github.com/zzz47zzz/awesome-lifelong-learning-methods-for-llm). A chinese version of this README is provided in [this file](./README_chinese.md).
 
+## 📢 News
+
+- **2025.01**: The interpretation of this survey is available on [PaperWeekly](https://mp.weixin.qq.com/s/svub9VZGXkbFWH2A7p91SQ) and [知乎](https://zhuanlan.zhihu.com/p/20703148682)!
+
+- **2025.01**: We released a survey paper "[Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)". Feel free to cite or open pull requests.
 
 ![illustrution](./assets/illustrution.png)
 
 ![introduction](./assets/introduction.png)
 
-## 📢 News
-
-- **2025-1-31**: The interpretation of this survey is available on [PaperWeekly](https://mp.weixin.qq.com/s/svub9VZGXkbFWH2A7p91SQ) and [知乎](https://zhuanlan.zhihu.com/p/20703148682)!
-
--  **2025-1-14**: We released a survey paper "[Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)". Feel free to cite or open pull requests.
 
 ## 📒 Table of Contents
 

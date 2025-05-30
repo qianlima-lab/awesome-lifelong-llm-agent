@@ -6,6 +6,8 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 
 ## 📢 News
 
+- **2025.06**: We are excited to release the first benchmark [LifelongAgentBench](https://caixd-220529.github.io/LifelongAgentBench/) for lifelong learning of LLM Agents. The paper, source code, datasets are all available!
+
 - **2025.01**: The interpretation of this survey is available on [PaperWeekly](https://mp.weixin.qq.com/s/svub9VZGXkbFWH2A7p91SQ) and [知乎](https://zhuanlan.zhihu.com/p/20703148682)!
 
 - **2025.01**: We released a survey paper "[Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)". Feel free to cite or open pull requests.

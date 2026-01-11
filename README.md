@@ -1,4 +1,4 @@
-# Lifelong Learning of Large Language Model based Agents: A Roadmap
+# TPAMI 2026 | Lifelong Learning of Large Language Model based Agents: A Roadmap
 
 [![arXiv](https://img.shields.io/badge/arXiv-lifelong_LLM_Agents-b31b1b.svg)](https://arxiv.org/pdf/2501.07278)
 

@@ -6,6 +6,8 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 
 ## 📢 News
 
+- **2026.01**: Our [survey paper](https://arxiv.org/pdf/2501.07278) has been accepted for publication in IEEE TPAMI. An updated version, which includes additional experimental results and more references, will be released soon.
+
 - **2025.06**: We are excited to release the first benchmark [LifelongAgentBench](https://caixd-220529.github.io/LifelongAgentBench/) for lifelong learning of LLM Agents. The paper, source code, datasets are all available!
 
 - **2025.01**: The interpretation of this survey is available on [PaperWeekly](https://mp.weixin.qq.com/s/svub9VZGXkbFWH2A7p91SQ) and [知乎](https://zhuanlan.zhihu.com/p/20703148682)!

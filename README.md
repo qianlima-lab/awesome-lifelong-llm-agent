@@ -142,11 +142,12 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 ## 📚 Cite Our Work
 
 ```
-@article{zheng2025lifelong,
-      title={Lifelong Learning of Large Language Model based Agents: A Roadmap}, 
-      author={Zheng, Junhao and Shi, Chengming and Cai, Xidi and Li, Qiuke and Zhang, Duzhen and Li, Chenxing and Yu, Dong and Ma, Qianli},
-      journal={arXiv preprint arXiv:2501.07278},
-      year={2025},
+@article{zheng2026lifelong,
+  title={Lifelong learning of large language model based agents: A roadmap},
+  author={Zheng, Junhao and Shi, Chengming and Cai, Xidi and Li, Qiuke and Zhang, Duzhen and Li, Chenxing and Yu, Dong and Ma, Qianli},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 

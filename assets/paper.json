@@ -74,6 +74,13 @@
   "Memory Module": {
     "Working Memory": [
       {
+        "paper": "Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations",
+        "link": "https://arxiv.org/abs/2509.16457",
+        "venue": "EMNLP",
+        "date": "2025-09",
+        "label": "wang2025implicit"
+      },
+      {
         "paper": "Adapting Language Models to Compress Contexts",
         "link": "https://arxiv.org/pdf/2305.14788",
         "venue": "ACL",

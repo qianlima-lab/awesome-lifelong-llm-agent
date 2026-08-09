@@ -132,6 +132,7 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 #### Inter-Episodic Memory
 |Title|Venue|Date|
 |:---|:---|:---|
+|[OpenSkill: Open-World Self-Evolution for LLM Agents](https://arxiv.org/abs/2606.06741)|arXiv|2026-06|
 |[VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs](https://arxiv.org/pdf/2406.14596)|arXiv|2024-06|
 |[LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error](https://aclanthology.org/2024.acl-long.570.pdf)|ACL|2024-03|
 |[See and Think: Embodied Agent in Virtual Environment](https://arxiv.org/pdf/2311.15209)|ECCV|2023-11|

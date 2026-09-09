@@ -43,6 +43,7 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 ### Working Memory
 |Title|Venue|Date|
 |:---|:---|:---|
+|[Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457)|EMNLP|2025-09|
 |[Character-llm: A trainable agent for role-playing](https://arxiv.org/pdf/2310.10158)|EMNLP|2023-10|
 |[Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers](https://arxiv.org/pdf/2309.08532)|ICLR|2023-09|
 |[Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788)|ACL|2023-05|

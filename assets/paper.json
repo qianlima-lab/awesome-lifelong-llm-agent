@@ -473,7 +473,7 @@
         {
           "paper": "SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks",
           "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/4b0eea69deea512c9e2c469187643dc2-Paper-Conference.pdf",
-          "venue": "NeurIPS2023",
+          "venue": "NeurIPS",
           "date": "2023-05",
           "label": "lin2024swiftsage"
         }

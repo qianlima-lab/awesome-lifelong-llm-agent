@@ -21,6 +21,8 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 
 ## 📒 Table of Contents
 
+> [!NOTE]
+> To add a new paper, please update [`assets/paper.json`](./assets/paper.json) instead of editing this README directly.
 
 ## Perception Module
 ### Single-Modal Perception

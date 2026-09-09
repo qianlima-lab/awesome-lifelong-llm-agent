@@ -6,6 +6,8 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 
 ## 📢 News
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 - **2026.01**: Our [survey paper](https://arxiv.org/pdf/2501.07278) has been accepted for publication in IEEE TPAMI. An updated version, which includes additional experimental results and more references, will be released soon.
 
 - **2025.06**: We are excited to release the first benchmark [LifelongAgentBench](https://caixd-220529.github.io/LifelongAgentBench/) for lifelong learning of LLM Agents. The paper, source code, datasets are all available!

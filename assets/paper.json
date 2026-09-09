@@ -232,6 +232,13 @@
     "Grounding Actions": {
       "Tool Environment": [
         {
+          "paper": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
+          "link": "https://arxiv.org/abs/2608.15763",
+          "venue": "arXiv",
+          "date": "2026-08",
+          "label": "taolive2026training"
+        },
+        {
           "paper": "GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution",
           "link": "https://arxiv.org/pdf/2307.08775",
           "venue": "EACL",
@@ -472,6 +479,27 @@
         }
       ],
       "Inter-Episodic Memory": [
+        {
+          "paper": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
+          "link": "https://arxiv.org/pdf/2608.08311",
+          "venue": "arXiv",
+          "date": "2026-08",
+          "label": "razzhigaev2026ouroboros"
+        },
+        {
+          "paper": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+          "link": "https://arxiv.org/abs/2606.06741",
+          "venue": "arXiv",
+          "date": "2026-06",
+          "label": "yan2026openskill"
+        },
+        {
+          "paper": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+          "link": "https://arxiv.org/abs/2604.01658",
+          "venue": "arXiv",
+          "date": "2026-04",
+          "label": "qu2026coral"
+        },
         {
           "label": "wang2024llms"
         },

@@ -54,6 +54,7 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 ### Episodic Memory
 |Title|Venue|Date|
 |:---|:---|:---|
+|[EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)|arXiv|2026-09|
 |[DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](https://arxiv.org/pdf/2410.08143)|arXiv|2024-10|
 |[MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation](https://arxiv.org/pdf/2308.08239)|arXiv|2023-08|
 |[RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322)|ICLR|2023-05|

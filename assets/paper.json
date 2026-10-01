@@ -118,6 +118,13 @@
     ],
     "Episodic Memory": [
       {
+        "paper": "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks",
+        "link": "https://arxiv.org/abs/2609.28236",
+        "venue": "arXiv",
+        "date": "2026-09",
+        "label": "embodiedmemorybench2026"
+      },
+      {
         "paper": "iCaRL: Incremental Classifier and Representation Learning",
         "link": "https://openaccess.thecvf.com/content_cvpr_2017/papers/Rebuffi_iCaRL_Incremental_Classifier_CVPR_2017_paper.pdf",
         "venue": "CVPR",

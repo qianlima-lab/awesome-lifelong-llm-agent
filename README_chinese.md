@@ -1,18 +1,27 @@
-# Lifelong Learning of Large Language Model based Agents: A Roadmap
+# TPAMI 2026 | Lifelong Learning of Large Language Model based Agents: A Roadmap
 
 [![arXiv](https://img.shields.io/badge/arXiv-lifelong_LLM_Agents-b31b1b.svg)](https://arxiv.org/pdf/2501.07278)
 
 欢迎来到与我们综述论文 **Lifelong Learning of Large Language Model based Agents: A Roadmap** 对应的仓库。本仓库收集了与 LLM agent 的终生学习（也称为持续学习、增量学习）相关的优秀论文。我们在论文中指出，感知（Perception）、记忆（Memory）和行动（Action）三个关键模块是实现 LLM agent 持续学习能力的核心所在。详情可参考[这篇综述论文](https://arxiv.org/pdf/2501.07278)。另外，关于LLM的终生学习（持续学习、增量学习）的其他论文，综述以及资源，可以参考这个[仓库](https://github.com/zzz47zzz/awesome-lifelong-learning-methods-for-llm)。英文版本的README提供在这个[文件](./README.md).
 
+## 📢 最新动态
+
+- **2026.01**：我们的[综述论文](https://arxiv.org/pdf/2501.07278)已被 IEEE TPAMI 接收。包含更多实验结果和参考文献的更新版本即将发布。
+
+- **2025.06**：我们发布了首个面向 LLM Agent 终生学习的基准 [LifelongAgentBench](https://caixd-220529.github.io/LifelongAgentBench/)，论文、代码和数据集均已公开！
+
+- **2025.01**：关于这篇综述的解读已发布在 [PaperWeekly](https://mp.weixin.qq.com/s/svub9VZGXkbFWH2A7p91SQ) 和[知乎](https://zhuanlan.zhihu.com/p/20703148682)！
+
+- **2025.01**：我们发布了综述论文「[Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)」。欢迎引用或提交 Pull Request。
+
 ![illustrution](./assets/illustrution_chinese.png)
 
 ![introduction](./assets/introduction_chinese.png)
 
-## 📢 最新动态
-
-- **2025-1-14**: 我们发布了综述论文「[Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/pdf/2501.07278)」。欢迎引用或提交 pull request。
-
 ## 📒 目录
+
+> [!NOTE]
+> 添加新论文时，请更新 [`assets/paper.json`](./assets/paper.json)，不要直接编辑 README。
 
 
 ## 感知模块 (Perception Module)
@@ -43,6 +52,7 @@
 
 | 标题 | 会议/期刊 | 日期 |
 |:---|:---|:---|
+|[Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457)|EMNLP|2025-09|
 |[Character-llm: A trainable agent for role-playing](https://arxiv.org/pdf/2310.10158)|EMNLP|2023-10|
 |[Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers](https://arxiv.org/pdf/2309.08532)|ICLR|2023-09|
 |[Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788)|ACL|2023-05|
@@ -88,6 +98,7 @@
 
 | 标题 | 会议/期刊 | 日期 |
 |:---|:---|:---|
+|[Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763)|arXiv|2026-08|
 |[LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error](https://aclanthology.org/2024.acl-long.570.pdf)|ACL|2024-03|
 |[EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/pdf/2401.06201)|ICLR Workshop|2024-01|
 |[Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum](https://ojs.aaai.org/index.php/AAAI/article/view/29759)|AAAI|2023-08|
@@ -148,8 +159,8 @@
 |:---|:---|:---|
 |[Reasoning with Language Model is Planning with World Model](https://arxiv.org/pdf/2305.14992)|EMNLP|2023-05|
 |[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning](https://proceedings.neurips.cc/paper_files/paper/2023/file/65a39213d7d0e1eb5d192aa77e77eeb7-Paper-Conference.pdf)|NeurIPS|2023-05|
+|[SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://proceedings.neurips.cc/paper_files/paper/2023/file/4b0eea69deea512c9e2c469187643dc2-Paper-Conference.pdf)|NeurIPS|2023-05|
 |[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf)|NeurIPS|2023-05|
-|[SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://proceedings.neurips.cc/paper_files/paper/2023/file/4b0eea69deea512c9e2c469187643dc2-Paper-Conference.pdf)|NeurIPS2023|2023-05|
 |[Reflexion: Language Agents with Verbal Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)|NeurIPS|2023-03|
 |[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629)|ICLR|2022-10|
 
@@ -157,6 +168,9 @@
 
 | 标题 | 会议/期刊 | 日期 |
 |:---|:---|:---|
+|[Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/pdf/2608.08311)|arXiv|2026-08|
+|[OpenSkill: Open-World Self-Evolution for LLM Agents](https://arxiv.org/abs/2606.06741)|arXiv|2026-06|
+|[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)|arXiv|2026-04|
 |[VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs](https://arxiv.org/pdf/2406.14596)|arXiv|2024-06|
 |[LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error](https://aclanthology.org/2024.acl-long.570.pdf)|ACL|2024-03|
 |[See and Think: Embodied Agent in Virtual Environment](https://arxiv.org/pdf/2311.15209)|ECCV|2023-11|
@@ -167,11 +181,12 @@
 ## 📚 引用我们的工作
 
 ```bibtex
-@article{zheng2025lifelong,
-      title={Lifelong Learning of Large Language Model based Agents: A Roadmap}, 
-      author={Zheng, Junhao and Shi, Chengming and Cai, Xidi and Li, Qiuke and Zhang, Duzhen and Li, Chenxing and Yu, Dong and Ma, Qianli},
-      journal={arXiv preprint arXiv:2501.07278},
-      year={2025},
+@article{zheng2026lifelong,
+  title={Lifelong learning of large language model based agents: A roadmap},
+  author={Zheng, Junhao and Shi, Chengming and Cai, Xidi and Li, Qiuke and Zhang, Duzhen and Li, Chenxing and Yu, Dong and Ma, Qianli},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 

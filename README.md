@@ -130,8 +130,8 @@ Welcome to the repository accompanying our survey paper on **Lifelong Learning o
 |:---|:---|:---|
 |[Reasoning with Language Model is Planning with World Model](https://arxiv.org/pdf/2305.14992)|EMNLP|2023-05|
 |[Large Language Models as Commonsense Knowledge for Large-Scale Task Planning](https://proceedings.neurips.cc/paper_files/paper/2023/file/65a39213d7d0e1eb5d192aa77e77eeb7-Paper-Conference.pdf)|NeurIPS|2023-05|
+|[SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://proceedings.neurips.cc/paper_files/paper/2023/file/4b0eea69deea512c9e2c469187643dc2-Paper-Conference.pdf)|NeurIPS|2023-05|
 |[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf)|NeurIPS|2023-05|
-|[SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://proceedings.neurips.cc/paper_files/paper/2023/file/4b0eea69deea512c9e2c469187643dc2-Paper-Conference.pdf)|NeurIPS2023|2023-05|
 |[Reflexion: Language Agents with Verbal Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)|NeurIPS|2023-03|
 |[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629)|ICLR|2022-10|
 #### Inter-Episodic Memory

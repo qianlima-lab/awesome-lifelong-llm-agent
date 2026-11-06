@@ -246,6 +246,13 @@
           "label": "taolive2026training"
         },
         {
+          "paper": "Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction",
+          "link": "https://arxiv.org/abs/2601.12762",
+          "venue": "arXiv",
+          "date": "2026-01",
+          "label": "toolmaster2026teaching"
+        },
+        {
           "paper": "GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution",
           "link": "https://arxiv.org/pdf/2307.08775",
           "venue": "EACL",

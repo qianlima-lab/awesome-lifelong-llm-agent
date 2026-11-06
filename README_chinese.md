@@ -99,6 +99,7 @@
 | 标题 | 会议/期刊 | 日期 |
 |:---|:---|:---|
 |[Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763)|arXiv|2026-08|
+|[Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762)|arXiv|2026-01|
 |[LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error](https://aclanthology.org/2024.acl-long.570.pdf)|ACL|2024-03|
 |[EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/pdf/2401.06201)|ICLR Workshop|2024-01|
 |[Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum](https://ojs.aaai.org/index.php/AAAI/article/view/29759)|AAAI|2023-08|

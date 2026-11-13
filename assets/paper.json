@@ -494,6 +494,13 @@
       ],
       "Inter-Episodic Memory": [
         {
+          "paper": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+          "link": "https://arxiv.org/abs/2611.10439",
+          "venue": "arXiv",
+          "date": "2026-11",
+          "label": "wang2026who"
+        },
+        {
           "paper": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
           "link": "https://arxiv.org/pdf/2608.08311",
           "venue": "arXiv",

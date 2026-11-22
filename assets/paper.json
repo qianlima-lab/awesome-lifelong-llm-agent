@@ -494,6 +494,13 @@
       ],
       "Inter-Episodic Memory": [
         {
+          "paper": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+          "link": "https://arxiv.org/abs/2611.14505",
+          "venue": "arXiv",
+          "date": "2026-11",
+          "label": "lenton2026continualarc"
+        },
+        {
           "paper": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
           "link": "https://arxiv.org/abs/2611.10439",
           "venue": "arXiv",

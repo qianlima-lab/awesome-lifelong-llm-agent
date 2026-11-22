@@ -63,6 +63,7 @@
 
 | 标题 | 会议/期刊 | 日期 |
 |:---|:---|:---|
+|[SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082)|arXiv|2026-10|
 |[EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)|arXiv|2026-09|
 |[DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory](https://arxiv.org/pdf/2410.08143)|arXiv|2024-10|
 |[MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation](https://arxiv.org/pdf/2308.08239)|arXiv|2023-08|
@@ -172,6 +173,7 @@
 |[Continual-ARC: Measuring Skill Acquisition over a Working Lifetime](https://arxiv.org/abs/2611.14505)|arXiv|2026-11|
 |[Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439)|arXiv|2026-11|
 |[Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/pdf/2608.08311)|arXiv|2026-08|
+|[Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177)|arXiv|2026-06|
 |[OpenSkill: Open-World Self-Evolution for LLM Agents](https://arxiv.org/abs/2606.06741)|arXiv|2026-06|
 |[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)|arXiv|2026-04|
 |[VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs](https://arxiv.org/pdf/2406.14596)|arXiv|2024-06|

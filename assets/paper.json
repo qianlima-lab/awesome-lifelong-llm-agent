@@ -118,6 +118,13 @@
     ],
     "Episodic Memory": [
       {
+        "paper": "SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+        "link": "https://arxiv.org/abs/2610.21082",
+        "venue": "arXiv",
+        "date": "2026-10",
+        "label": "sun2026scipivot"
+      },
+      {
         "paper": "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks",
         "link": "https://arxiv.org/abs/2609.28236",
         "venue": "arXiv",
@@ -513,6 +520,13 @@
           "venue": "arXiv",
           "date": "2026-08",
           "label": "razzhigaev2026ouroboros"
+        },
+        {
+          "paper": "Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy",
+          "link": "https://arxiv.org/abs/2606.24177",
+          "venue": "arXiv",
+          "date": "2026-06",
+          "label": "sun2026agon"
         },
         {
           "paper": "OpenSkill: Open-World Self-Evolution for LLM Agents",

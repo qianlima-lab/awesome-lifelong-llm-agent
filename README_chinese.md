@@ -169,6 +169,7 @@
 
 | 标题 | 会议/期刊 | 日期 |
 |:---|:---|:---|
+|[Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439)|arXiv|2026-11|
 |[Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/pdf/2608.08311)|arXiv|2026-08|
 |[OpenSkill: Open-World Self-Evolution for LLM Agents](https://arxiv.org/abs/2606.06741)|arXiv|2026-06|
 |[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)|arXiv|2026-04|
